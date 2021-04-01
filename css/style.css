@@ -1,0 +1,51 @@
+body{
+
+background-color: #ff007C;
+height: 100vh;
+
+}
+.white{
+  color: white;
+
+}
+.center{
+  margin: 0 auto;
+  text-align: center;
+}
+.margin-top{
+  margin-top:100px;
+}
+.title{
+
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.notosans{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.btn{
+  margin:10px;
+  border-radius: 10px;
+  font-size: 30px;
+  border: none;
+  background-color: rgba(255,255,255,0.9);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.hilight{
+  color: #8700cc;
+}
+.margin{
+  margin: 0px;
+  padding:0px;
+}
+.margin-top-abouts{
+  margin-top:40vh;
+}
+.card{
+background-color:rgba(255,255,255,0.7);
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+
+}
+.width-100{
+  width: 100%;
+
+}
